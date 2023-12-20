@@ -1,11 +1,13 @@
 [![MasterHead](https://as2.ftcdn.net/v2/jpg/05/42/07/43/1000_F_542074352_8UOKAiV5PxSxsuVELse6kUu0CdbcOcHI.jpg)](vakeesan.me)
 <h1 align="center">Hi 👋, I'm Vakeesan</h1>
-<h3 align="center">A Electronic & Telecommunication Undergraduate at University of Moratuwa</h3>
+<h3 align="center">Final year student of Electronic & Telecommunication Engineering at University of Moratuwa</h3>
+<h4 align="center">Intersted in FPGA, ASIC SoC designing and Machine learning </h4>
+
 <img align="right" alt="Electronic" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vakeesank99&label=Profile%20views&color=0e75b6&style=flat" alt="vakeesank99" /> </p>
 
 
-- 🔭 I’m currently working on **Smart Switch**
+- 🔭 I’m currently working on **3D printing defect detection: Final year project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vakeesank99](https://github.com/vakeesank99)
 
